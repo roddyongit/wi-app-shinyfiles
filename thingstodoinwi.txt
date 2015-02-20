@@ -1,0 +1,47 @@
+Category	BusinessName	Hours	City	Website	Address
+Eating out	Bravo Restaurant	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	www.bravoitalian.com	Brookfield Square, 95 N Moorland Rd, Brookfield, WI 53005
+Eating out	Bartolota Restaurant	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wauwatosa	www.bartolottas.com	7616 W State St, Wauwatosa, WI 53213
+Eating out	STIR Crazy	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	www.stircrazy.com	Brookfield Square, 15795 W Bluemound Rd, Brookfield, WI 53005
+Eating out	RiverMill Café	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Elm Grove	www.rivermillfoods.com	890 Elm Grove Rd, Elm Grove, WI 53122
+Sports	Miller Park	Hours vary by event	Milwaukee	http://milwaukee.brewers.mlb.com/mil/ballpark	Brewers Way Miller Park Milwaukee, WI 53214
+Sports	BMO Harris Bradley Cener	Hours vary by event	Milwaukee	www.bmoharrisbradleycenter.com	1001 N 4th St, Milwaukee, WI 53203
+Sports	Pettit National Ice Center 	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	West Allis	thepettit.com	500 S 84th St, Milwaukee, WI 53214
+Shopping	Mayfair Mall	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wauwatosa	www.mayfairmall.com 	2500 N Mayfair Rd, Ste M186, Wauwatosa, WI 53226
+Shopping	Brookfield Mall	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	www.shopbrookfieldsquaremall.com	12575 W Capitol Dr, Broofield, 53005
+Shopping	Southridge Mall	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Greendale	www.shopsouthridgemall.com	5300 S 76th St, Greendale, WI 53129
+Shopping	Bayshore Mall	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Glendale	www.bayshoretowncenter.com	5800 N Bayshore Dr, Glendale WI 53217
+Musseum	Milwaukee Art Museum	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.mam.org	Glendale, WI
+Musseum	The Harley-Davison Museum	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.harley-davidson.com/Museum‎	400 W Canal St, Milwaukee, WI 53201
+Musseum	Betty Brinn Childrens Museum	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.bbcmkids.org/	929 E Wisconsin Ave, Milwaukee, WI 53202
+Musseum	Discovery World Museum	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.discoveryworld.org	500 N Harbor Dr, Milwaukee, WI 53202
+Park	Veterans Park	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	http://www.city-data.com/articles/Veterans-Park-Milwaukee-Wisconsin.html	1010 N. Lincoln Memorial Drive, Milwaukee, WI 53202
+Park	Franklin Wirth Park	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	www.cityofbrookfield.com	2585 North Pilgrim Road, Brookfield, WI 53005
+Park	Rotary Park	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Menomonee Falls	www.menomonee-falls.org	N85W14201 Fond Du Lac Avenue, Menomonee Falls, WI 53051
+Park	Fox River Park	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wakesha	http://www.waukeshacounty.gov	W264S4500 River RdWaukesha, WI 53189
+Water Parks	Mt Olympus Resorts	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	www.mtolympuspark.com	1881 Wisconsin Dells Pkwy, Wisconsin Dells, WI 53965
+Water Parks	Noahs Ark	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	www.noahsarkwaterpark.com 	1410 Wisconsin Dells Pkwy, Wisconsin Dells, WI 53965
+Water Parks	Chula Vista Resort	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	www.chulavistaresort.com	4031 River Rd, Wisconsin Dells, WI 53965
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Greendale	www.mcdonalds.com 	NA
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Menomonee Falls	www.mcdonalds.com 	NA
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.mcdonalds.com 	NA
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wakesha	www.mcdonalds.com 	NA
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	West Allis	www.mcdonalds.com 	NA
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	www.mcdonalds.com 	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Greendale	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Menomonee Falls	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wakesha	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	West Allis	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	www.wendys.com	NA
+Eating out	Wendys	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Glendale		
+Eating out	MacDonalds	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Glendale	www.mcdonalds.com 	NA
+Eating out	George Webb	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Elm Grove	georgewebb.com	NA
+Eating out	George Webb	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	georgewebb.com	NA
+Eating out	George Webb	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	georgewebb.com	NA
+Shopping	Grand Avenue	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	www.grandavenueshops.com	6153 N Teutonia Ave, Milwaukee, WI 53209
+Sports	Brookfield Soccer Complex	Hours vary by event	Brookfield	brookfieldindoor.com 	NA
+Sports	Roufusport Mixed Martial Arts Academy	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wauwatosa	http://www.roufusport.com	NA
+Musseum	Dells Country Historical	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wisconsin Dells	http://www.dellscountryhistoricalsociety.org	NA
+Musseum	Brookfield Museum and Historical Society	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Brookfield	http://www.brookfieldcthistory.org/	165 Whisconier Road, P.O. Box 5231, Brookfield, CT 06804
+Water Parks	Country Springs Hotel	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Wakesha	http://www.countryspringshotel.com/springs-water-park	2810 Golf Road Pewaukee, WI 53072
+Water Parks	Humboldt Park	Mon - Fri: 10 AM to 11: PM; SAT - SUN: 11 AM to 11:00 PM	Milwaukee	NA	NA

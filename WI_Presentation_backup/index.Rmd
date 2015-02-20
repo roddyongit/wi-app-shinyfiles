@@ -1,0 +1,56 @@
+---
+title       : Things to do in Wisconsin
+subtitle    : Wisconsin Website
+author      : A. Rosario
+job         : Future Data Scientist
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Welcome !
+
+We are so glad you decided to visit Wisconsin
+
+--- .class #id 
+
+## Concept of the project
+
+This is a website to present some of the many cool things
+that residents and visitors could do in the state of Wisconsin.
+
+We hope you enjoy using this new application!
+
+
+## Slide 3
+
+ In this slide you can see some activities you might be
+ interested to enjoy...
+```{r,  warning=FALSE}
+# Load the dataset
+df <- read.table("thingstodoinwi.txt", sep="\t", header=TRUE, stringsAsFactors=FALSE)
+
+```
+ 
+
+
+## Does this application has a future?
+
+  Sure!
+  
+  Since this application contains so many relevant information about 
+  Wisconsin and even better it is so easy to use, we think this 
+  site will become the favorite to many people, not only to the
+  locals for also to the visotors
+
+
+
+## Slide 5
+
+
+
+
+
